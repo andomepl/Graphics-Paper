@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ignore/[GPU精粹2.高性能图形芯片和通用计算机编程技巧].(GPU.Gems.2.Programming.Techniques).(美)Matt.Pharr.扫描版.pdf
+/ignore/[GPU精粹3].(GPU.Gems.3).(美)Hubert.Nguyen.扫描版.pdf
+/ignore/[GPU精粹2.高性能图形芯片和通用计算机编程技巧].(GPU.Gems.2.Programming.Techniques).(美)Matt.Pharr.扫描版.pdf
+/ignore
